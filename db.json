@@ -1,0 +1,40 @@
+{
+  "modules": [
+    {
+      "id": "1",
+      "title": "Introduction to React",
+      "completed": true,
+      "time": 10
+    },
+    {
+      "id": "2",
+      "title": "Frontend Development",
+      "completed": true,
+      "time": 12
+    },
+    {
+      "id": "3",
+      "title": "Maths for AI",
+      "completed": false,
+      "time": 8
+    },
+    {
+      "id": "4",
+      "title": "DDCA",
+      "completed": true,
+      "time": 6
+    },
+    {
+      "id": "5",
+      "title": "Data Structures",
+      "completed": false,
+      "time": 15
+    },
+    {
+      "id": "6",
+      "title": "Communication Skills for Engineers",
+      "completed": false,
+      "time": 5
+    }
+  ]
+}
